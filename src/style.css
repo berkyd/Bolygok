@@ -1,0 +1,10 @@
+* {
+    box-sizing: border-box;
+    font-family:'Times New Roman', Times, serif;
+}
+
+.adatok {
+    display: flex;
+    justify-content: space-around;
+    background-color: skyblue;
+}
